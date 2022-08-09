@@ -1,6 +1,6 @@
 # Hyperblog 💚
-Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
-> El curso de Git y Github de Platzi.
+Un blog increíble para el[ Mi Perfil ](https://github.com/bymahak4 " curso de Git y Github")
+> El curso de Git y Github.
 > - DON
 
 ## En este curso vemos de todo
@@ -10,4 +10,4 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Josue
 
-Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
+Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://github.com/bymahak4/hyperblog "a ver el curso").
